@@ -14,10 +14,10 @@ This project is a part of the AAI-521 course in the Applied Artificial Intellige
 To use this projection, first clone the repo on your device using the command below:
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/v0rt3x0/Final_Project_AAI_521_Group15
 
 
-cd your-repo-name
+cd Final_Project_AAI_521_Group15
 
 
 <h2>**Project Objective**</h2>
